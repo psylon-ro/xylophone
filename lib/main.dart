@@ -29,7 +29,7 @@ class XylophoneApp extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
-              everyThing(soundNumber: 1, colour: Colors.red),
+              everyThing(soundNumber: 1, colour: Colors.black),
               everyThing(soundNumber: 2, colour: Colors.orange),
               everyThing(soundNumber: 3, colour: Colors.yellow),
               everyThing(soundNumber: 4, colour: Colors.green),
